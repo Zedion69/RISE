@@ -13,4 +13,4 @@
 <p>A script specifically for cheating.</p><br><p>By a cheater, for other cheaters.<br><p>Rise up to the top being completely undetectable.</p>
 </h2>
 <hr>
-# About RISE
+<h1>About RISE</h1>
