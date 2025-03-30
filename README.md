@@ -1,11 +1,5 @@
-<picture>
-  <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedion69/RISE/main/RISEDARK.png">
-  
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedion69/RISE/main/RISE.png">
-  
-  <!-- Fallback Image -->
-  <img src="https://raw.githubusercontent.com/Zedion69/RISE/main/RISE_light.png" alt="Logo">
-</picture>
-<p><strong>Rise up to the top being completely undetected.</strong></p>
+<!-- Light Mode Image (by default) -->
+<img src="https://raw.githubusercontent.com/Zedion69/RISE/main/RISE.png" alt="RISE Light Logo">
+
+<!-- Dark Mode Image (fallback image, can be manually viewed) -->
+<img src="https://raw.githubusercontent.com/Zedion69/RISE/main/RISEDARK.png" alt="RISE Dark Logo">
