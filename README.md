@@ -14,4 +14,5 @@
 </h2>
 <hr>
 <h1>About RISE</h1>
-Welcome to<strong >-RISE!</strong>
+Welcome to Rise!
+- Rise is an roblox script precisely for cheating in skywars.
