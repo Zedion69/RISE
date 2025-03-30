@@ -1,9 +1,4 @@
 <div align="center">
-
-# My Awesome Project
-
-This project is a Lua-based tool for creating custom UI libraries in Roblox.
-
-<img src="https://via.placeholder.com/150" alt="Project Logo">
+<img src="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISE.PNG">
 
 </div>
