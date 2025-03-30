@@ -10,6 +10,6 @@
   <img src="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISE_light.png" alt="Logo">
 </picture>
 <hr>
-<p><strong>Rise up to the top being completely undetected.</strong></p>
+<p><strong>Rise up to the top being completely undetected.</strong></p><br><p>By a cheater, for other cheaters.</p>
 
 </div>
