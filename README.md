@@ -1,4 +1,4 @@
-<div style="line-height: 30px" align="center">
+<div style="line-height: 30" align="center">
 <picture>
   <!-- dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISELIGHT.PNG">
