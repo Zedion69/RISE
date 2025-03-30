@@ -1,4 +1,4 @@
-<p style="align: center">
+<p align: center">
   <picture>
   <!-- dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISELIGHT.PNG">
