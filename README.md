@@ -27,3 +27,6 @@ Welcome to Rise!
 <h1>Socials</h1>
 <br>
 • Discord: zodien09 
+<br>
+<h1>RISE SCRIPT</h1>
+<p><strong>Sorry! RISE Currently isnt out and is being created, see you soon!</strong></p>
