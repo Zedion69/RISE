@@ -23,3 +23,7 @@ Welcome to Rise!
 <br>
 • We plan on making RISE an legitimate hack, and not for people to be detected or seem like they are hacking.
 <br</br>
+<br</br>
+<h1>Socials</h1>
+<br>
+• Discord: zodien09 
