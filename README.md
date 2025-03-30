@@ -5,7 +5,7 @@
   
   <!-- light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISEDARKFIX.png">
-  
+  ---
   <!-- fallback image -->
   <img src="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISE_light.png" alt="Logo">
 </picture>
