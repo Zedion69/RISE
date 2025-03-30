@@ -14,4 +14,4 @@
 </h2>
 <hr>
 <h1>About RISE</h1>
-Welcome to<strong>RISE!</strong>
+Welcome to<strong >RISE!</strong>
