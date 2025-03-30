@@ -13,7 +13,8 @@
 <p>A script specifically for cheating.</p><br><p>By a cheater, for other cheaters.<br><p>Rise up to the top being completely undetectable.</p>
 </h2>
 <hr>
-<h1>About RISE</h1><br>
+<h1>About RISE</h1>
+<br>
 Welcome to Rise!
 <br>
 • Rise is an roblox script precisely for cheating in skywars.
