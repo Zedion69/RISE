@@ -9,6 +9,8 @@
   <!-- fallback image -->
   <img src="https://raw.githubusercontent.com/Zedion69/RISE/refs/heads/main/RISE_light.png" alt="Logo">
 </picture>
+<br>
+<br>
 <p><strong>Rise up to the top being completely undetected.</strong></p>
 
 </div>
