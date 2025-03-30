@@ -15,4 +15,8 @@
 <hr>
 <h1>About RISE</h1>
 Welcome to Rise!
-- Rise is an roblox script precisely for cheating in skywars.
+<br>
+• Rise is an roblox script precisely for cheating in skywars.
+• Why play fair? Lose 24/7 when you can just cheat using rise? Its so simple you'd think its hard!
+• We plan on making RISE an legitimate hack, and not for people to be detected or seem like they are hacking.
+<br</br>
